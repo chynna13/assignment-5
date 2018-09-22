@@ -1,0 +1,29 @@
+h1, caption{
+	font-family: "Poor Story", cursive;
+	font-size: 56px;
+	font-weight: 900;
+	color: white;
+	background-color: purple;
+}
+td{
+	font-family: "Poor Story", cursive;
+	font-size: 40px;
+	font-weight: 600;
+}
+th{
+	font-family: "Poor Story", cursive;
+	font-size: 20px;
+	font-weight: 900;
+	color: purple;
+	background-color: yellow;
+}
+td{
+	background-color: yellow;
+}
+body {
+	background-color: lightblue;
+	background-size: cover;
+	background: linear-gradient(
+		rgba(244,67,54,0.95),
+		rgba(33,150,243,0.75),
+		rgba(139,195,74,0.75)),
